@@ -1,6 +1,4 @@
-# lem-guix-package-recipe
-
-Lem Guix Package Recipe (updated as of Fri May 31, 2024) - commit f6333ee3...
+# Background/Introduction
 
 - Original Work: https://github.com/Fuglesteg/lem-guix-packaging
 - Fork: https://github.com/arthur-dog/lem-guix-packaging
