@@ -346,7 +346,7 @@ encoding/end-of-line detection and external-format abstraction for Common Lisp."
       (license license:bsd-2))))
 
 (define lem
-  (let ((commit "f6333ee3908afc96c22987bc76de4773e56da2b6")
+  (let ((commit "3c189134da395b291e192d5a89d772cfb7ea32bf")
         (revision "0"))
     (package
      (name "lem")
@@ -359,7 +359,7 @@ encoding/end-of-line detection and external-format abstraction for Common Lisp."
              (url "https://github.com/lem-project/lem/")
              (commit commit)))
        (sha256
-        (base32 "1nan7scvx7j6gdagdi4k3k8jn1qbb3fbja35rfhz684la7a7jnal"))
+        (base32 "1b96yygf2frhy5jh1b0aim4f5vyhxcq4s8qfvd15vlyzhnvd1wf1"))
        (file-name (git-file-name name version))
        (snippet #~(begin
                     (use-modules (guix build utils))
