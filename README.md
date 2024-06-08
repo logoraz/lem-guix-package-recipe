@@ -4,8 +4,8 @@
 - Fork: https://github.com/arthur-dog/lem-guix-packaging
   - Based off of forked work.
 
-This is a Work In Progress (WIP), goal is to established a Guix package recipe that can
-be pushed upstream (if possible).
+This is a Work In Progress (WIP). Once this has been tested more extensively and the TODO items
+below have been resolved, I plan to push this upstream to GNU Guix.
 
 # TODO
 - Revisit micros package definition -> not working fully (inherited this way from forked work)
@@ -16,4 +16,6 @@ be pushed upstream (if possible).
 
 # Update Log:
 
-- Update from commit f6333ee3 (240531) -> 3c189134 (240605)
+- Initial commit f6333ee3 (240531)
+- Update to commit 3c189134 (240605)
+- tbd
