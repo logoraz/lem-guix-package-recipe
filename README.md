@@ -16,6 +16,5 @@ below have been resolved, I plan to push this upstream to GNU Guix.
 
 # Update Log:
 
-- Initial commit f6333ee3 (240531)
 - Update to commit 3c189134 (240605)
-- tbd
+- Initial commit f6333ee3 (240531)
