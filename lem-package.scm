@@ -309,7 +309,7 @@ encoding/end-of-line detection and external-format abstraction for Common Lisp."
                     sbcl-prove
                     sbcl-find-port))
       (home-page "https://github.com/ceramic/trivial-ws")
-      (synopsis "Trivial WebSockets, built on top of Hunchensocket for the server and websocket-driver for the client.")
+      (synopsis "Trivial WebSockets.")
       (description "Trivial WebSockets, built on top of Hunchensocket for the server and websocket-driver for the client.")
       (license license:expat))))
 
@@ -341,7 +341,7 @@ encoding/end-of-line detection and external-format abstraction for Common Lisp."
                     sbcl-bordeaux-threads
                     sbcl-cl-fad))
       (home-page "https://github.com/joaotavora/hunchensocket")
-      (synopsis "Hunchensocket is a Common Lisp implementation of WebSockets realized as an extension to the Hunchentoot web server.")
+      (synopsis "Websockets for Hunchentoot.")
       (description "Hunchensocket is a Common Lisp implementation of WebSockets realized as an extension to the Hunchentoot web server.")
       (license license:bsd-2))))
 
