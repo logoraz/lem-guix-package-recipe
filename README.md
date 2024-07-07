@@ -7,8 +7,18 @@
 This is a Work In Progress (WIP). Once this has been tested more extensively and the TODO items
 below have been resolved, I plan to push this upstream to GNU Guix.
 
+# Install
+
+To build a local executable:
+
+```
+
+ $ guix package -f path/to/lem-package.scm
+
+```
+
 # TODO
-- Revisit micros package definition -> not working fully (inherited this way from forked work)
+- Micros build is fine, doesn't work since there is a bug in Lem's micros implementation
 - Development Environment Guix Package (WIP)
 
 # References
