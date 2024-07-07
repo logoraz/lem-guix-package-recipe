@@ -17,9 +17,10 @@ To build a local executable:
 
 ```
 
-# TODO
-- Micros build is fine, doesn't work since there is a bug in Lem's micros implementation
-- Development Environment Guix Package (WIP)
+# TODO (indefinitely on hold)
+- Development Environment Guix Package
+- Due to community attitute towards guix and condescending comments towards new lispers, I am no longer interested in
+  contributing to Lem in any way.
 
 # References
 - https://guix.gnu.org/en/cookbook/en/guix-cookbook.html#Packaging-Tutorial
