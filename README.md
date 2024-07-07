@@ -19,8 +19,8 @@ To build a local executable:
 
 # TODO (indefinitely on hold)
 - Development Environment Guix Package
-- Due to maintainers/contributors negative attitutes towards Guix and condescending comments towards new lispers, I am no longer interested in
-  contributing to Lem in any way.
+- Due to Lem's maintainers/contributors cantankerous negative attitutes towards Guix and unruly
+  condescending comments towards new lispers, I am no longer interested in contributing to Lem in any way.
 
 # References
 - https://guix.gnu.org/en/cookbook/en/guix-cookbook.html#Packaging-Tutorial
