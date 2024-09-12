@@ -1,0 +1,43 @@
+#+title: Lem Guix Package Recipe
+#+author: Erik P Almaraz (logoraz)
+
+
+** Background/Introduction
+
+  - Original Work: https://github.com/Fuglesteg/lem-guix-packaging
+  - Fork: https://github.com/arthur-dog/lem-guix-packaging
+    - Based off of forked work.
+
+  This is a Work In Progress (WIP). Once this has been tested more extensively and the TODO items
+  below have been resolved, I plan to push this upstream to GNU Guix.
+
+** Install
+
+  Install/build using Guix shell (preferred Guix method):
+
+  #+begin_src sh
+
+    $ guix shell -m path/to/lem-package.scm
+
+  #+end_src
+
+  or install as a guix package install:
+
+  #+begin_src sh
+
+    $ guix package -f path/to/lem-package.scm
+
+  #+end_src
+
+
+** TODO (indefinitely on hold)
+  - Development Environment Guix Package
+  - Due to Lem's maintainers/contributors cantankerous negative attitutes towards Guix and unruly condescending comments towards new lispers, I am no longer interested in contributing to Lem in any way.
+
+** References
+  - https://guix.gnu.org/en/cookbook/en/guix-cookbook.html#Packaging-Tutorial
+
+**  Change Log:
+
+  - Update to commit 3c189134 (240605)
+  - Initial commit f6333ee3 (240531)
