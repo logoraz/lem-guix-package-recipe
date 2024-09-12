@@ -13,11 +13,11 @@
 
 ** Install
 
-  Install/build using Guix shell (preferred Guix method):
+  Install/build using Guix shell (preferred Guix method - need to test this):
 
   #+begin_src sh
 
-    $ guix shell -m path/to/lem-package.scm
+    $ guix shell -m path/to/lem-package.scm -- lem
 
   #+end_src
 
