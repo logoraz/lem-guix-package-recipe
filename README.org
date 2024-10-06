@@ -8,8 +8,11 @@
   - Fork: https://github.com/arthur-dog/lem-guix-packaging
     - Based off of forked work.
 
-  This is a Work In Progress (WIP). Once this has been tested more extensively and the TODO items
-  below have been resolved, I plan to push this upstream to GNU Guix.
+  This is a Work In Progress (WIP). Once this has been tested more extensively and the TODO
+  items below have been resolved, I plan to push this upstream to GNU Guix.
+
+  This repo is no longer needed and will be archieved, someone beat me to the punch and
+  submitted a package recipe for [[https://github.com/lem-project/lem][Lem]] upstream to Guix and is now availab ([[https://packages.guix.gnu.org/packages/lem/2.2.0-0.3f2f0ad/][Guix Lem Package]]).
 
 ** Install
 
